@@ -1,5 +1,5 @@
 {
-  "name": "node-trakt",
+  "name": "trakt-tv",
   "version": "0.0.2",
   "description": "A wrapper for the trakt.tv API",
   "main": "index.js",
@@ -8,18 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mesoptier/node-trakt"
+    "url": "https://github.com/CrypticSwarm/node-trakt"
   },
   "keywords": [
     "trakt",
     "movie",
     "tvshow"
   ],
-  "author": "Koen Klaren <koen.klaren@gmail.com>",
+  "authors": [
+    "Cryptic Swarm <crypticswarm@gmail.com>",
+    "Koen Klaren <koen.klaren@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mesoptier/node-trakt/issues"
+    "url": "https://github.com/CrypticSwarm/node-trakt/issues"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
